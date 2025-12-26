@@ -25,12 +25,12 @@ function Home() {
                 <strong className="main-name"> Rutvik Parmar</strong>
               </h1>
 
-              <div style={{ paddingLeft: 50, textAlign: "left" }}>
+              <div style={{ paddingLeft: 50, paddingBottom: 20, textAlign: "left" }}>
                 <Type />
               </div>
             </Col>
 
-            <Col md={5} style={{ paddingBottom: 20 }}>
+            <Col md={5} style={{ padding: 20 }}>
               <img
                 src={homeLogo}
                 alt="home pic"
