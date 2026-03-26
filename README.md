@@ -3,8 +3,6 @@
   <a href="" target="_blank">Rutvik.tech</a>
 </h2>
 
-<br/>
-
 <h3 align="center">
     🔹
     <a href="https://github.com/rutvikp003/Portfolio/issues">Report Bug</a> &nbsp; &nbsp;
