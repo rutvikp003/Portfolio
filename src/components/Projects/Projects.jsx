@@ -96,7 +96,7 @@ function Projects() {
               title="Expense Tracker"
               description="Built a full-stack Expense Tracker powered by RESTful APIs, allowing users to add, update, delete, and analyze expenses. Designed structured endpoints for smooth frontend integration, with authentication and validation to ensure secure and reliable data management."
               ghLink="https://github.com/rutvikp003/expense-tracker"
-              // demoLink="https://blogs.soumya-jit.tech/"      
+              demoLink="https://expense-tracker-teal-tau.vercel.app/"      
             />
           </Col>
         </Row>
