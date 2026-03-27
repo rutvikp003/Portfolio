@@ -1,18 +1,11 @@
 import React from "react";
 import { Col, Row, Tooltip, OverlayTrigger } from "react-bootstrap";
 import { ImWindows } from "react-icons/im";
-import {
-  SiPostman,
-  SiVercel,
-  SiNotion
-} from "react-icons/si";
+import { SiPostman, SiVercel, SiNotion } from "react-icons/si";
 import { BiLogoVisualStudio } from "react-icons/bi";
 
 function Toolstack() {
-
-  const renderTooltip = (name) => (
-    <Tooltip>{name}</Tooltip>
-  );
+  const renderTooltip = (name) => <Tooltip>{name}</Tooltip>;
 
   const tools = [
     { icon: <ImWindows />, name: "Windows" },

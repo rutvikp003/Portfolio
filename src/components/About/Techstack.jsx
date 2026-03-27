@@ -9,17 +9,10 @@ import {
   DiGit,
   DiJava,
 } from "react-icons/di";
-import {
-  SiFirebase,
-  SiNextdotjs,
-  SiPostgresql,
-} from "react-icons/si";
+import { SiFirebase, SiNextdotjs, SiPostgresql } from "react-icons/si";
 
 function Techstack() {
-
-  const renderTooltip = (name) => (
-    <Tooltip>{name}</Tooltip>
-  );
+  const renderTooltip = (name) => <Tooltip>{name}</Tooltip>;
 
   const techStack = [
     { icon: <DiJavascript />, name: "JavaScript" },
